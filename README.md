@@ -10,7 +10,7 @@
 	<br>
 </div>
 
-## Front-End Development
+## Front-End Development💻
 
 - [2021 Roadmap For Front-End Developers](https://twitter.com/TechParida/status/1309353944418865152) by [Trilochan Parida](https://twitter.com/TechParida)
 - [Best Web Development Blogs](https://twitter.com/TheAnkurTyagi/status/1306637706420604928) by [AnkurGreen heartCode Life Fitness](https://twitter.com/TheAnkurTyagi)
@@ -26,14 +26,14 @@
 - [Resources For Learning React](https://twitter.com/Prathkum/status/1297814772113539072) by [Pratham](https://twitter.com/Prathkum)
 
 
-## Back-End Development
+## Back-End Development💻
 
 - [2021 Roadmap For Back-End Developers](https://twitter.com/TechParida/status/1310167081313206272) by [Trilochan Parida](https://twitter.com/TechParida)
 - [Best Free Resources to Learn Node.js](https://twitter.com/nirbhayvashisht/status/1309163230338588672) by [Nirbhay Vashisht](https://twitter.com/nirbhayvashisht)
 
-## Investment.
+## Investment.🤑
 - [NFT enthusiasts!](https://twitter.com/CoinbaseWallet/status/1482096434975498240) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
 - [price-matching ghost](https://twitter.com/4adybug/status/1480215843883692033) by [창이](https://twitter.com/4adybug)
 - [what 2022 might hold for Web3 and the cryptoeconomy ... ](https://twitter.com/coinbase/status/1478119036776972292) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
 
-## Freelancing
+## Freelancing💵
