@@ -33,3 +33,4 @@
 
 ## Investment.
 - [NFT enthusiasts!](https://twitter.com/CoinbaseWallet/status/1482096434975498240) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
+- [price-matching ghost](https://twitter.com/4adybug/status/1480215843883692033) by [창이](https://twitter.com/4adybug)
