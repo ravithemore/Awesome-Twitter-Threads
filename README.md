@@ -24,6 +24,7 @@
 - [Path to Learn JavaScript](https://twitter.com/PrasoonPratham/status/1315535517434277890) by [Pratham Prasoon](https://twitter.com/PrasoonPratham)
 - [React Developer Roadmap](https://twitter.com/TheAnkurTyagi/status/1315289260044349441) by [Ankur](https://twitter.com/TheAnkurTyagi)
 - [Resources For Learning React](https://twitter.com/Prathkum/status/1297814772113539072) by [Pratham](https://twitter.com/Prathkum)
+- [RESOURCES I have used so far to learn JAVASCRIPT.](https://twitter.com/faheem_khan_dev/status/1483067996423684101) by [Faheem Khan](https://twitter.com/faheem_khan_dev)
 
 
 ## Back-End Development💻
