@@ -30,3 +30,6 @@
 
 - [2021 Roadmap For Back-End Developers](https://twitter.com/TechParida/status/1310167081313206272) by [Trilochan Parida](https://twitter.com/TechParida)
 - [Best Free Resources to Learn Node.js](https://twitter.com/nirbhayvashisht/status/1309163230338588672) by [Nirbhay Vashisht](https://twitter.com/nirbhayvashisht)
+
+## Investment.
+- [NFT enthusiasts!](https://twitter.com/CoinbaseWallet/status/1482096434975498240) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
