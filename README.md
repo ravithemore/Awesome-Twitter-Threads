@@ -37,3 +37,4 @@
 - [what 2022 might hold for Web3 and the cryptoeconomy ... ](https://twitter.com/coinbase/status/1478119036776972292) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
 
 ## Freelancing💵
+- [But I'm here to help you make 2022 your best year ever](https://twitter.com/VladPasca5/status/1481241563548241920) by [Vlad | Landing page Wiz](https://twitter.com/VladPasca5)
