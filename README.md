@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="500" src="media/awesome-twitter-threads.svg" alt="Awesome Node.js">
+		<img width="500" src="assests/awesome-twitter-threads.svg" alt="Awesome Node.js">
 	</div>
 	<br>
 	<br>
