@@ -34,3 +34,4 @@
 ## Investment.
 - [NFT enthusiasts!](https://twitter.com/CoinbaseWallet/status/1482096434975498240) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
 - [price-matching ghost](https://twitter.com/4adybug/status/1480215843883692033) by [창이](https://twitter.com/4adybug)
+- [what 2022 might hold for Web3 and the cryptoeconomy ... ](https://twitter.com/coinbase/status/1478119036776972292) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
