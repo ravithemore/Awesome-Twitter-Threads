@@ -27,7 +27,7 @@
 - [RESOURCES I have used so far to learn JAVASCRIPT.](https://twitter.com/faheem_khan_dev/status/1483067996423684101) by [Faheem Khan](https://twitter.com/faheem_khan_dev)
 
 
-## Back-End Development💻
+## Back-End Development.💻
 
 - [2021 Roadmap For Back-End Developers](https://twitter.com/TechParida/status/1310167081313206272) by [Trilochan Parida](https://twitter.com/TechParida)
 - [Best Free Resources to Learn Node.js](https://twitter.com/nirbhayvashisht/status/1309163230338588672) by [Nirbhay Vashisht](https://twitter.com/nirbhayvashisht)
@@ -37,5 +37,5 @@
 - [price-matching ghost](https://twitter.com/4adybug/status/1480215843883692033) by [창이](https://twitter.com/4adybug)
 - [what 2022 might hold for Web3 and the cryptoeconomy ... ](https://twitter.com/coinbase/status/1478119036776972292) by [Coinbase Wallet](https://twitter.com/CoinbaseWallet)
 
-## Freelancing💵
+## Freelancing.💵
 - [But I'm here to help you make 2022 your best year ever](https://twitter.com/VladPasca5/status/1481241563548241920) by [Vlad | Landing page Wiz](https://twitter.com/VladPasca5)
