@@ -10,6 +10,9 @@
 	<br>
 </div>
 
+## BEST PORTFOLIOS:
+-[5 Inspiring Developer Portfolios from the Tech Twitter Community](https://twitter.com/akoskm/status/1477954945768898565) BY [Akos](https://twitter.com/akoskm)
+
 ## Front-End Development💻
 ### ROADMAP:
 - [2021 Roadmap For Front-End Developers](https://twitter.com/TechParida/status/1309353944418865152) by [Trilochan Parida](https://twitter.com/TechParida)
