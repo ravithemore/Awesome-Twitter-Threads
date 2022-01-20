@@ -10,7 +10,7 @@
 	<br>
 </div>
 
-## BEST PORTFOLIOS:
+## BEST PORTFOLIOSp✨
 - [5 Inspiring Developer Portfolios from the Tech Twitter Community](https://twitter.com/akoskm/status/1477954945768898565) BY [Akos](https://twitter.com/akoskm)
 
 ## Front-End Development💻
@@ -46,5 +46,5 @@
 ## Freelancing.💵
 - [But I'm here to help you make 2022 your best year ever](https://twitter.com/VladPasca5/status/1481241563548241920) by [Vlad | Landing page Wiz](https://twitter.com/VladPasca5)
 
-## BEST WEBSITES:
+## BEST WEBSITES🕸️
 - [15 Websites to Get Free Illustrations For Your Next ](https://twitter.com/parik36/status/1477986731873898496) BY [Parik 🌱](https://twitter.com/parik36)
