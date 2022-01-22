@@ -10,7 +10,7 @@
 	<br>
 </div>
 
-## BEST PORTFOLIOSp✨
+## BEST PORTFOLIOS✨
 - [5 Inspiring Developer Portfolios from the Tech Twitter Community](https://twitter.com/akoskm/status/1477954945768898565) BY [Akos](https://twitter.com/akoskm)
 
 ## Front-End Development💻
