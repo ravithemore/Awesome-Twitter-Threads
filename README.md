@@ -14,7 +14,7 @@
 - [5 Inspiring Developer Portfolios from the Tech Twitter Community](https://twitter.com/akoskm/status/1477954945768898565) BY [Akos](https://twitter.com/akoskm)
 
 ## Front-End Development💻
-### ROADMAP:
+### ROADMAP
 - [2021 Roadmap For Front-End Developers](https://twitter.com/TechParida/status/1309353944418865152) by [Trilochan Parida](https://twitter.com/TechParida)
 - [Best Web Development Blogs](https://twitter.com/TheAnkurTyagi/status/1306637706420604928) by [AnkurGreen heartCode Life Fitness](https://twitter.com/TheAnkurTyagi)
 - [Core concepts that every modern JavaScript developer should know well](https://twitter.com/TheAnkurTyagi/status/1312386619706540045) by [AnkurGreen heartCode Life Fitness](https://twitter.com/TheAnkurTyagi)
